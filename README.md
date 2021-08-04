@@ -5,7 +5,7 @@
 - 🌱&nbsp;&nbsp;&nbsp;I’m currently learning Redux and TypeScript
 - ⚡&nbsp;&nbsp;&nbsp;Fun fact: I love snowboarding and playing guitar
 
-Visit my personal portfolio site at [stev.ca](stev.ca) or my [LinkedIn](https://www.linkedin.com/in/stevenmaddison/) to learn more!
+Visit my personal portfolio site at [stev.ca](https://stev.ca) or my [LinkedIn](https://www.linkedin.com/in/stevenmaddison/) to learn more!
 
 #### Here are some of the technologies I've been using recently: 
 
