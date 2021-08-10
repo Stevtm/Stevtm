@@ -7,6 +7,8 @@
 
 Visit my personal portfolio site at [stev.ca](https://stev.ca) or my [LinkedIn](https://www.linkedin.com/in/stevenmaddison/) to learn more!
 
+Send me an [email](mailto:steventmaddison@outlook.com) to get in touch!
+
 #### Here are some of the technologies I've been using recently: 
 
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
