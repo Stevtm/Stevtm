@@ -7,7 +7,7 @@
 
 Visit my personal portfolio site at [stev.ca](https://stev.ca) or my [LinkedIn](https://www.linkedin.com/in/stevenmaddison/) to learn more!
 
-Send me an [email](mailto:steventmaddison@outlook.com) to get in touch!
+Send me an email at [steventmaddison@outlook.com](mailto:steventmaddison@outlook.com) to get in touch!
 
 #### Here are some of the technologies I've been using recently: 
 
