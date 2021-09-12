@@ -2,8 +2,8 @@
 #### I'm a full stack web developer who loves solving problems and developing visually appealing, responsive, and functional web applications. 
 
 - 🔭&nbsp;&nbsp;&nbsp;I’m currently working on developing applications to make my day-to-day life easier!
-- 🌱&nbsp;&nbsp;&nbsp;I’m currently learning Redux and TypeScript
-- ⚡&nbsp;&nbsp;&nbsp;Fun fact: I love snowboarding and playing guitar
+- 🌱&nbsp;&nbsp;&nbsp;I’m currently improving my knowledge of Redux and TypeScript
+- ⚡&nbsp;&nbsp;&nbsp;Fun fact: In my spare time, I love to snowboard, camp, and play guitar
 
 Visit my personal portfolio site at [stev.ca](https://stev.ca) or my [LinkedIn](https://www.linkedin.com/in/stevenmaddison/) to learn more!
 
