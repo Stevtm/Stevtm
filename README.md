@@ -5,7 +5,7 @@
 - 🌱&nbsp;&nbsp;&nbsp;I’m currently improving my knowledge of TypeScript and Redux
 - ⚡&nbsp;&nbsp;&nbsp;Fun fact: In my spare time, I love to snowboard, camp, and play guitar
 
-Visit my personal portfolio site at [stev.ca](https://stev.ca) or my [LinkedIn](https://www.linkedin.com/in/stevenmaddison/) to learn more!
+Visit my [LinkedIn](https://www.linkedin.com/in/stevenmaddison/) to learn more!
 
 Send me an email at [steventmaddison@outlook.com](mailto:steventmaddison@outlook.com) to get in touch!
 
